@@ -1,0 +1,11 @@
+#main {
+	text-align: center;
+	background: skyblue;
+	
+}
+
+.container {
+	display: inline-block;
+	gap: 10px;
+	justify-content: center;
+}
